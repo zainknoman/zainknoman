@@ -1,161 +1,128 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=900&lines=Enterprise+Systems+Architect;Core+Banking+%7C+AI+Platforms+%7C+Distributed+Systems;Temenos+T24+%7C+AgentVerse+%7C+Fintech+Architecture;Building+Scalable+AI+and+Financial+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=850&lines=Core+Banking+Developer;Temenos+T24+Specialist;AI+Platform+Builder;Full-Stack+Engineer;Flask+%7C+Vue+%7C+Android+%7C+Python" />
 </p>
 
----
+# 👋 Hi, I'm Zain
 
-# 👋 Zain — Enterprise Systems Architect
+I am a **Software Developer** working across **Core Banking systems, AI platforms and full-stack application development**.
 
-I design and build **mission-critical enterprise systems** across **Core Banking (Temenos T24 ecosystem), AI agent platforms, and fintech automation architectures**.
-
-My focus is not just development — but **end-to-end system design, scalability, security, and intelligent automation at enterprise scale.**
+I enjoy building **real-world systems** that combine banking, automation and modern web technologies.
 
 ---
 
-## 🧭 What I Do
+## 🧔‍♂️ About Me
 
-- 🏦 Architect **Core Banking systems (Temenos T24 / TAFC / TAFJ ecosystems)**
-- 🤖 Build **AI Agent Platforms (multi-agent orchestration like AgentVerse)**
-- 🔐 Design **secure backend systems (JWT, device binding, FCM enforcement)**
-- 🧩 Engineer **distributed APIs & workflow pipelines**
-- 📲 Deliver **full-stack enterprise systems (Flask + Vue + Android)**
-- ⚙️ Optimize **financial workflows, EMI systems & transaction processing**
+- 🏦 Working with **Temenos T24 (TAFC / TAFJ)** in banking systems
+- 🤖 Building **AI multi-agent platforms (AgentVerse)**
+- 🔐 Developing secure backend systems with **JWT + APIs + FCM**
+- 📲 Full-stack development using **Flask, Vue, Android**
+- 💳 Working on fintech systems like **EMI Lock System**
+- 🎮 Exploring game development (Dangerous Game project)
+
+---
+## 💻 Tech Stack
+
+I work across **Core Banking systems, backend engineering and AI-driven platforms**.
 
 ---
 
-## ⚡ Tech Identity Snapshot
-
-### 🏦 Core Banking & Enterprise Systems
+### 🏦 Core Banking & Fintech
 ![Temenos T24](https://img.shields.io/badge/Temenos-T24-blue?style=for-the-badge)
 ![TAFC](https://img.shields.io/badge/TAFC-R14--R25-darkgreen?style=for-the-badge)
 ![TAFJ](https://img.shields.io/badge/TAFJ-Java-orange?style=for-the-badge)
+![UXP Edge](https://img.shields.io/badge/UXP-Edge%20Connect-purple?style=for-the-badge)
 ![Payments](https://img.shields.io/badge/Temenos-Payments-darkblue?style=for-the-badge)
 
-### 💻 Backend & APIs
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
-![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+### 💻 Backend & Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Infobasic](https://img.shields.io/badge/InfoBasic-T24-green?style=for-the-badge)
 
-### 🌐 Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
+### 🌐 Frameworks & APIs
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/API-SOAP-lightgrey?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🗄 Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🧪 Tools & DevOps
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 🚀 What Sets Me Apart
-
-- 🏦 Deep **Core Banking + Temenos architecture expertise**
-- 🤖 Real-world **AI agent orchestration systems (AgentVerse)**
-- 🔐 Strong focus on **security-first distributed systems**
-- 📡 Experience in **event-driven financial workflows (FCM, EMI systems)**
-- 🧠 Strong **system design + enterprise architecture mindset**
-- ⚙️ Ability to bridge **AI, banking, and production-grade backend systems**
-
----
-
-## 🏗 Architecture Focus
-
-I specialize in building systems with:
-
-- 🔄 Multi-agent **AI workflow pipelines**
-- 🧩 Modular **microservice-style REST architectures**
-- 🔐 Secure authentication systems (JWT + device-level enforcement)
-- 📲 Mobile + backend **event-driven synchronization (FCM-based control)**
-- 🤖 AI-powered automation workflows & reasoning chains
-- 🧱 Stateful distributed systems with transactional consistency
-
----
+### ⚙️ Version Control & Collaboration
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🚀 Featured Projects
 
----
+### 🎭 AgentVerse (AI Platform)
+🔗 https://github.com/zainknoman/AgentVerse
 
-### 🌌 AgentVerse — AI Multi-Agent Orchestration Platform
-🔗 https://github.com/zainknoman/AgentVerse  
+A multi-agent AI platform designed to run structured workflows using multiple AI agents.
 
-A modular AI system that enables **multi-agent execution pipelines** where each agent contributes to a structured workflow.
+- Multi-agent pipeline execution
+- Workflow-based AI orchestration
+- Plugin-based architecture
+- Context-aware agent communication
+- Scalable AI automation system
 
-**Key Features**
-- Multi-agent sequential & parallel execution engine
-- LLM-based reasoning chains
-- Plugin-based extensible architecture
-- Context propagation between agents
-- Workflow-driven AI orchestration
+### 📱 EMI Lock System
+A fintech-based enforcement system for managing EMI lifecycle and device control.
 
-**Tech Stack**
-Python, AI APIs, Modular Pipeline Architecture
+- JWT-based authentication system
+- Firebase Cloud Messaging (FCM) integration
+- Vue 3 admin dashboard
+- Android device enforcement app
+- EMI tracking & control logic
 
-**Impact**
-Transforms AI from single-response models into **enterprise-grade autonomous workflow systems**
+### 🌐 T24 Tools & Development
+- Temenos T24 customization and debugging
+- API integration and service development
+- Banking workflow enhancements
 
----
-
-### 📱 EMI Lock System — Fintech Device Control Platform
-
-A production-grade **financial enforcement system** integrating EMI tracking with device-level security control.
-
-**Key Features**
-- 🔐 JWT authentication with secure session handling
-- 📲 Device lock/unlock via Firebase Cloud Messaging
-- 💳 EMI lifecycle management engine
-- 🖥 Admin dashboard (Vue 3)
-- 📱 Android enforcement client
-- ⚙️ Real-time financial rule enforcement
-
-**Tech Stack**
-Flask, Vue 3, Android, PostgreSQL, FCM
-
-**Impact**
-Enables **fintech + telecom device financing enforcement systems**
+### 🎮 Dangerous Game
+- HTML + JavaScript based game project
+- Game logic experimentation and UI design
 
 ---
 
-### 🧠 AI Chatbot MVP Platform
-Configurable enterprise chatbot system for:
-- Universities
-- Hospitals
-- Internal enterprise systems
+## 🧰 Tech Stack
 
-**Focus**
-Domain-specific AI configuration + modular deployment
+**Core Banking**
+Temenos T24, TAFC, TAFJ
 
----
+**Backend**
+Python, Flask, REST APIs, JWT
 
-### 🌐 T24 Debug & Dev Tooling Extension
-Developer tooling for:
-- Temenos T24 debugging insights
-- Runtime behavior tracking
-- Event-level system observation
+**Frontend**
+Vue 3, HTML, CSS, Bootstrap
 
----
+**Mobile**
+Android, Firebase Cloud Messaging
 
-### 📊 Expense Monitoring System
-Lightweight financial tracker using:
-- CSV-based persistence
-- Browser-based UI
-- Simple analytics engine
+**Programming**
+Java, Python, JavaScript, C#
+
+**Databases**
+Oracle, PostgreSQL, SQL Server
+
+**Tools & APIs**
+Postman, Swagger, SoapUI, Git, GitHub
 
 ---
-<!--
-## 📸 Visual Proof of Work
 
-<p align="center">
-  <img src="images/agentverse-dashboard.png" width="800"/>
-</p>
-
-> Add more:
-- EMI Lock Admin Dashboard
-- Android enforcement UI
-- System architecture diagrams
--->
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainknoman&show_icons=true&theme=tokyonight" />
@@ -171,17 +138,20 @@ Lightweight financial tracker using:
 
 ---
 
-## 🤝 Let's Build Systems That Scale
+## 🤝 Let’s Connect
 
-I’m open to collaboration on:
+### 🌐 Professional & Social
+📧 Hotmail / Google | 💬 Skype | 💼 LinkedIn | 🐙 GitHub  
+👉 zainknoman
 
-- 🏦 Core Banking & Fintech Platforms
-- 🤖 AI Agent Systems & Automation Engines
-- 📡 Distributed Backend Architectures
-- 🔐 Secure Enterprise Systems
-
+- 💼 LinkedIn: https://www.linkedin.com/in/zainknoman/  
+- 🐙 GitHub: https://github.com/zainknoman  
+<!--
+### 📱 Direct Contact
+📞 Phone | 💬 WhatsApp | 🤖 Botim  
+👉 0092 323 259 5009
 ---
-
+-->
 <p align="center">
-  <b>Enterprise Systems • AI Architecture • Fintech Engineering</b>
+  <b>Core Banking • AI Systems • Full-Stack Development</b>
 </p>
