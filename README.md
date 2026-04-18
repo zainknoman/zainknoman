@@ -1,97 +1,187 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=900&lines=Enterprise+Systems+Architect;Core+Banking+%7C+AI+Platforms+%7C+Distributed+Systems;Temenos+T24+%7C+AgentVerse+%7C+Fintech+Architecture;Building+Scalable+AI+and+Financial+Infrastructure" />
+</p>
 
+---
+
+# 👋 Zain — Enterprise Systems Architect
+
+I design and build **mission-critical enterprise systems** across **Core Banking (Temenos T24 ecosystem), AI agent platforms, and fintech automation architectures**.
+
+My focus is not just development — but **end-to-end system design, scalability, security, and intelligent automation at enterprise scale.**
+
+---
+
+## 🧭 What I Do
+
+- 🏦 Architect **Core Banking systems (Temenos T24 / TAFC / TAFJ ecosystems)**
+- 🤖 Build **AI Agent Platforms (multi-agent orchestration like AgentVerse)**
+- 🔐 Design **secure backend systems (JWT, device binding, FCM enforcement)**
+- 🧩 Engineer **distributed APIs & workflow pipelines**
+- 📲 Deliver **full-stack enterprise systems (Flask + Vue + Android)**
+- ⚙️ Optimize **financial workflows, EMI systems & transaction processing**
+
+---
+
+## ⚡ Tech Identity Snapshot
+
+### 🏦 Core Banking & Enterprise Systems
+![Temenos T24](https://img.shields.io/badge/Temenos-T24-blue?style=for-the-badge)
+![TAFC](https://img.shields.io/badge/TAFC-R14--R25-darkgreen?style=for-the-badge)
+![TAFJ](https://img.shields.io/badge/TAFJ-Java-orange?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Temenos-Payments-darkblue?style=for-the-badge)
+
+### 💻 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### 🌐 Frontend & Mobile
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
+
+### 🗄 Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge)
+
+---
+
+## 🚀 What Sets Me Apart
+
+- 🏦 Deep **Core Banking + Temenos architecture expertise**
+- 🤖 Real-world **AI agent orchestration systems (AgentVerse)**
+- 🔐 Strong focus on **security-first distributed systems**
+- 📡 Experience in **event-driven financial workflows (FCM, EMI systems)**
+- 🧠 Strong **system design + enterprise architecture mindset**
+- ⚙️ Ability to bridge **AI, banking, and production-grade backend systems**
+
+---
+
+## 🏗 Architecture Focus
+
+I specialize in building systems with:
+
+- 🔄 Multi-agent **AI workflow pipelines**
+- 🧩 Modular **microservice-style REST architectures**
+- 🔐 Secure authentication systems (JWT + device-level enforcement)
+- 📲 Mobile + backend **event-driven synchronization (FCM-based control)**
+- 🤖 AI-powered automation workflows & reasoning chains
+- 🧱 Stateful distributed systems with transactional consistency
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 🌌 AgentVerse — AI Multi-Agent Orchestration Platform
+🔗 https://github.com/zainknoman/AgentVerse  
+
+A modular AI system that enables **multi-agent execution pipelines** where each agent contributes to a structured workflow.
+
+**Key Features**
+- Multi-agent sequential & parallel execution engine
+- LLM-based reasoning chains
+- Plugin-based extensible architecture
+- Context propagation between agents
+- Workflow-driven AI orchestration
+
+**Tech Stack**
+Python, AI APIs, Modular Pipeline Architecture
+
+**Impact**
+Transforms AI from single-response models into **enterprise-grade autonomous workflow systems**
+
+---
+
+### 📱 EMI Lock System — Fintech Device Control Platform
+
+A production-grade **financial enforcement system** integrating EMI tracking with device-level security control.
+
+**Key Features**
+- 🔐 JWT authentication with secure session handling
+- 📲 Device lock/unlock via Firebase Cloud Messaging
+- 💳 EMI lifecycle management engine
+- 🖥 Admin dashboard (Vue 3)
+- 📱 Android enforcement client
+- ⚙️ Real-time financial rule enforcement
+
+**Tech Stack**
+Flask, Vue 3, Android, PostgreSQL, FCM
+
+**Impact**
+Enables **fintech + telecom device financing enforcement systems**
+
+---
+
+### 🧠 AI Chatbot MVP Platform
+Configurable enterprise chatbot system for:
+- Universities
+- Hospitals
+- Internal enterprise systems
+
+**Focus**
+Domain-specific AI configuration + modular deployment
+
+---
+
+### 🌐 T24 Debug & Dev Tooling Extension
+Developer tooling for:
+- Temenos T24 debugging insights
+- Runtime behavior tracking
+- Event-level system observation
+
+---
+
+### 📊 Expense Monitoring System
+Lightweight financial tracker using:
+- CSV-based persistence
+- Browser-based UI
+- Simple analytics engine
+
+---
 <!--
-**zainknoman/zainknoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📸 Visual Proof of Work
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="images/agentverse-dashboard.png" width="800"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Add more:
+- EMI Lock Admin Dashboard
+- Android enforcement UI
+- System architecture diagrams
 -->
+---
 
-# 👋 Hi, I'm Zain
+## 📊 GitHub Analytics
 
-💻 Software Developer | Core Banking | Temenos Transact  
-🚀 Building scalable systems & AI-powered applications  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainknoman&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainknoman&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainknoman&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainknoman&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zainknoman&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainknoman&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🤝 Let's Build Systems That Scale
+
+I’m open to collaboration on:
+
+- 🏦 Core Banking & Fintech Platforms
+- 🤖 AI Agent Systems & Automation Engines
+- 📡 Distributed Backend Architectures
+- 🔐 Secure Enterprise Systems
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/zainknoman/)
-- 📧 Email: (mailto:zainknoman@hotmail.com)
-
----
-
-## 👨‍💻 About Me
-- 🔭 Currently working on **Dangerous Game (HTML + JS + CSS)**
-- 🎭 Exploring **AI Agents & Automation Platforms (AgentVerse)**
-- 🌱 Other Projects **EMI Lock System (Flask + Vue + Android + FCM)**
-- 🏦 Specialized in **Temenos T24 / Transact development (Implementation/Upgrade)**
-- ⚙️ Experienced in **Backend APIs, JWT Auth, System Design**
-
----
-
-### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
---- 
-
-## 📌 Projects
-
-### 🔹 EMI Lock System
-- Device lock/unlock via FCM
-- Admin dashboard (Vue 3)
-- JWT authentication
-- EMI tracking APIs
-
-### 🎭 AgentVerse (AI Platform)
-https://github.com/zainknoman/AgentVerse/tree/feature/appbuilder/
-
-### ✨ Core Platform Features
-- 55+ AI Agent Personalities — Specialized agents across 9 divisions (Engineering, Design, Marketing, Product, Project Management, Testing, Support, Spatial Computing, Specialized)
-- Multi-Agent Workflows — Chain agents together for complex tasks
-- Chat Interface — Converse with any agent in a modern UI
-- Multiple AI Backends — Support for Claude (Anthropic), OpenAI, Ollama (local), LM Studio (local), or Demo mode
-- Usage Analytics — Token usage and agent performance tracking
-### Template Designer
-- Visual editor to create custom multi-agent workflows
-### App Builder
-- 25+ Workflow Templates — Web App, Mobile App, SaaS, E-commerce, AI Product, and more
-- SSE Streaming — Real-time step-by-step output via Server-Sent Events
-- Import / Export — Share templates as JSON
-### Orchestration Engine
-- Parallel Agent Pipelines — DAG executor runs independent steps in parallel (up to 3 concurrent)
-- Output Validation — Every pipeline step is AI-validated + retried (up to 3x) before being accepted
-- Permission System — Claude Code-style per-tool approval: auto / default / strict / readonly
-- Vector Memory — Semantic search via sqlite-vss + local embeddings (all-MiniLM-L6-v2, no API key)
-- Code Sandbox — isolated-vm V8 isolate with memory + CPU limits and no host access
-- Secure Bash — Allowlist-based shell tool (replaces trivially-bypassed denylist)
-- Plugin System — Drop plugins into backend/plugins/ to add agents, tools, and templates
-- Structured Logging — Pino JSON logs with redaction and child loggers
-### DAG Executor
-### Permission Gate
-### Tool Registry
-### Vector Memory
-### Code Sandbox 
-### Plugin System
-### Output Validator
-### Logger
-### Rate Limiting
-
----
-
-
-
+<p align="center">
+  <b>Enterprise Systems • AI Architecture • Fintech Engineering</b>
+</p>
