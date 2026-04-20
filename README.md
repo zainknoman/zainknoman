@@ -20,6 +20,43 @@ I enjoy building **real-world systems** that combine banking, automation and mod
 - 🎮 Exploring game development (Dangerous Game project)
 
 ---
+
+## 🚀 Featured Projects
+
+### 🎭 AgentVerse (AI Platform)
+🔗 https://github.com/zainknoman/AgentVerse
+
+A multi-agent AI platform designed to run structured workflows using multiple AI agents.
+
+- Multi-agent pipeline execution
+- Workflow-based AI orchestration
+- Plugin-based architecture
+- Context-aware agent communication
+- Scalable AI automation system
+
+### 📱 EMI Lock System
+A fintech-based enforcement system for managing EMI lifecycle and device control.
+
+- JWT-based authentication system
+- Firebase Cloud Messaging (FCM) integration
+- Vue 3 admin dashboard
+- Android device enforcement app
+- EMI tracking & control logic
+
+### 🌐 T24 Tools & Development
+- Temenos T24 customization and debugging
+- API integration and service development
+- Banking workflow enhancements
+
+### 🎮 Dangerous Game
+🎮 **[Play it live →](https://zainknoman.github.io/dangerousgame/)**
+
+- HTML + JavaScript based game project
+- Build Your Own Game
+- CONFIGURE → CREATE → PLAY → SHARE
+- Design Level → Export JSON → Send to Friends → Import JSON & Play 
+
+---
 ## 💻 Tech Stack
 
 I work across **Core Banking systems, backend engineering and AI-driven platforms**.
@@ -63,41 +100,6 @@ I work across **Core Banking systems, backend engineering and AI-driven platform
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🎭 AgentVerse (AI Platform)
-🔗 https://github.com/zainknoman/AgentVerse
-
-A multi-agent AI platform designed to run structured workflows using multiple AI agents.
-
-- Multi-agent pipeline execution
-- Workflow-based AI orchestration
-- Plugin-based architecture
-- Context-aware agent communication
-- Scalable AI automation system
-
-### 📱 EMI Lock System
-A fintech-based enforcement system for managing EMI lifecycle and device control.
-
-- JWT-based authentication system
-- Firebase Cloud Messaging (FCM) integration
-- Vue 3 admin dashboard
-- Android device enforcement app
-- EMI tracking & control logic
-
-### 🌐 T24 Tools & Development
-- Temenos T24 customization and debugging
-- API integration and service development
-- Banking workflow enhancements
-
-### 🎮 Dangerous Game
-🎮 **[Play it live →](https://zainknoman.github.io/dangerousgame/)**
-
-- HTML + JavaScript based game project
-- Build Your Own Game
-- CONFIGURE → CREATE → PLAY → SHARE
-- Design Level → Export JSON → Send to Friends → Import JSON & Play 
 
 ---
 
