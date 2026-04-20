@@ -92,33 +92,12 @@ A fintech-based enforcement system for managing EMI lifecycle and device control
 - Banking workflow enhancements
 
 ### 🎮 Dangerous Game
+🎮 **[Play it live →](https://zainknoman.github.io/dangerousgame/)**
+
 - HTML + JavaScript based game project
-- Game logic experimentation and UI design
-
----
-
-## 🧰 Tech Stack
-
-**Core Banking**
-Temenos T24, TAFC, TAFJ
-
-**Backend**
-Python, Flask, REST APIs, JWT
-
-**Frontend**
-Vue 3, HTML, CSS, Bootstrap
-
-**Mobile**
-Android, Firebase Cloud Messaging
-
-**Programming**
-Java, Python, JavaScript, C#
-
-**Databases**
-Oracle, PostgreSQL, SQL Server
-
-**Tools & APIs**
-Postman, Swagger, SoapUI, Git, GitHub
+- Build Your Own Game
+- CONFIGURE → CREATE → PLAY → SHARE
+- Design Level → Export JSON → Send to Friends → Import JSON & Play 
 
 ---
 
