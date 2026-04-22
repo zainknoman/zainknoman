@@ -13,10 +13,10 @@ I enjoy building **real-world systems** that combine banking, automation and mod
 ## 🧔‍♂️ About Me
 
 - 🏦 Working with **Temenos T24 (TAFC / TAFJ)** in banking systems
-- 🤖 Building **AI multi-agent platforms (AgentVerse)**
-- 🔐 Developing secure backend systems with **JWT + APIs + FCM**
-- 📲 Full-stack development using **Flask, Vue, Android**
-- 💳 Working on fintech systems like **EMI Lock System**
+- 🔐 Working on Implementation & Upgrade **Core Banking projects**
+- 🤖 Building **AI multi-agent platform (AgentVerse)**
+- 📲 Full-stack development using **AI-tools**
+- 💳 Working on mobile development **EMI Lock System**
 - 🎮 Exploring game development (Dangerous Game project)
 
 ---
@@ -43,11 +43,6 @@ A fintech-based enforcement system for managing EMI lifecycle and device control
 - Android device enforcement app
 - EMI tracking & control logic
 
-### 🌐 T24 Tools & Development
-- Temenos T24 customization and debugging
-- API integration and service development
-- Banking workflow enhancements
-
 ### 🎮 Dangerous Game
 🎮 **[Play it live →](https://zainknoman.github.io/dangerousgame/)**
 
@@ -55,6 +50,11 @@ A fintech-based enforcement system for managing EMI lifecycle and device control
 - Build Your Own Game
 - CONFIGURE → CREATE → PLAY → SHARE
 - Design Level → Export JSON → Send to Friends → Import JSON & Play 
+
+### 🌐 T24 Tools & Development
+- Temenos T24 customization and debugging
+- API integration and service development
+- Banking workflow enhancements
 
 ---
 ## 💻 Tech Stack
