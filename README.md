@@ -124,7 +124,9 @@ I work across **Core Banking systems, backend engineering and AI-driven platform
 ### 🌐 Professional & Social
 📧 Hotmail / Google | 💬 Skype | 💼 LinkedIn | 🐙 GitHub  
 👉 zainknoman
+✉️ zainknoman@hotmail.com
 
+💬 Contact for quick discussion via LinkedIn DM
 - 💼 LinkedIn: https://www.linkedin.com/in/zainknoman/  
 - 🐙 GitHub: https://github.com/zainknoman  
 <!--
