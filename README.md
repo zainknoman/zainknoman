@@ -44,7 +44,7 @@ A fintech-based enforcement system for managing EMI lifecycle and device control
 - EMI tracking & control logic
 
 ### 🎮 Dangerous Game
-🎮 **[Play it live →](https://zainknoman.github.io/dangerousgame/)**
+🎮 **[Play it live →](https://plum-edyth-58.tiiny.site/)**
 
 - HTML + JavaScript based game project
 - Build Your Own Game
