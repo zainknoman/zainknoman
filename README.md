@@ -61,6 +61,15 @@ A multi-agent AI platform designed to run structured workflows using multiple AI
 * ⚡ Lightweight, privacy-first utility running fully offline using pure HTML, CSS, and Vanilla JavaScript
 
 
+# ❌ ReCodeX
+🔗 **[Live Demo →](https://zainknoman.github.io/RecodeX/)**
+
+* 📁 Combine multiple code/text files into a single structured file with clear start/end markers
+* 🔄 Reverse-engineer compiled files back into original file structure with accurate parsing
+* 📦 Export combined or original files as downloadable ZIP using JSZip (client-side only)
+* 🔍 Built-in search, highlight, copy-to-clipboard, and modal preview for compiled output
+* ⚡ Fully frontend-based (HTML + Tailwind + Vanilla JS), no server or database required
+
 ### 📱 EMI Lock System
 A fintech-based enforcement system for managing EMI lifecycle and device control.
 
