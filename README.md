@@ -34,6 +34,33 @@ A multi-agent AI platform designed to run structured workflows using multiple AI
 - Context-aware agent communication
 - Scalable AI automation system
 
+### 🎮 Dangerous Game
+🔗 **[Play it live →](https://plum-edyth-58.tiiny.site/)**
+
+- HTML + JavaScript based game project
+- Build Your Own Game
+- CONFIGURE → CREATE → PLAY → SHARE
+- Design Level → Export JSON → Send to Friends → Import JSON & Play 
+
+### 📋 Task Tracker
+🔗 **[Live Demo →](https://zainknoman.github.io/TaskTracker/)**
+
+- Enterprise-grade Task & Assignment Management application built using pure HTML, CSS, and Vanilla JavaScript
+- Includes Dashboard, Kanban Board, Calendar View, Task Analytics, Global Search, and Dependency Tracking
+- Features Dark/Light Mode, Drag & Drop Workflow, Auto-save localStorage persistence, and JSON/CSV Import-Export
+- Designed for banking, corporate, PMO, agile teams, and business analyst workflow management
+- Zero-dependency architecture with responsive UI, keyboard shortcuts, toast notifications, and modern enterprise UX
+
+### 📌 Text Search Utility
+🔗 **[Live Demo →](https://zainknoman.github.io/LineFind/)**
+
+* 🔍 Client-side file search tool to quickly search across multiple uploaded text/code files in the browser
+* 📁 Supports multiple file formats with instant upload and in-memory processing (no backend required)
+* ✨ Displays line-by-line matches with highlighted keywords for fast debugging and analysis
+* 👀 Includes full file viewer modal with line numbers, search highlighting, and download option
+* ⚡ Lightweight, privacy-first utility running fully offline using pure HTML, CSS, and Vanilla JavaScript
+
+
 ### 📱 EMI Lock System
 A fintech-based enforcement system for managing EMI lifecycle and device control.
 
@@ -42,14 +69,6 @@ A fintech-based enforcement system for managing EMI lifecycle and device control
 - Vue 3 admin dashboard
 - Android device enforcement app
 - EMI tracking & control logic
-
-### 🎮 Dangerous Game
-🎮 **[Play it live →](https://plum-edyth-58.tiiny.site/)**
-
-- HTML + JavaScript based game project
-- Build Your Own Game
-- CONFIGURE → CREATE → PLAY → SHARE
-- Design Level → Export JSON → Send to Friends → Import JSON & Play 
 
 ### 🌐 T24 Tools & Development
 - Temenos T24 customization and debugging
