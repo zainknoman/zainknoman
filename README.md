@@ -51,6 +51,15 @@ A multi-agent AI platform designed to run structured workflows using multiple AI
 - Designed for banking, corporate, PMO, agile teams, and business analyst workflow management
 - Zero-dependency architecture with responsive UI, keyboard shortcuts, toast notifications, and modern enterprise UX
 
+### 📋 Task Tracker Pro ⚡
+🔗 **[Live Demo →](https://zainknoman.github.io/TaskTrackerPro/)**
+
+- 🗂️ Enterprise-grade work management system built with pure HTML, CSS & JavaScript — zero dependencies, no build step, runs entirely in the browser
+- 📊 Full project hierarchy with Projects, Milestones, Sprints, and Tasks linked by relational IDs, supporting Kanban, Gantt Timeline, Calendar and Analytics views
+- ⚡ Smart productivity features including real-time notifications, deadline health scoring, sprint burndown charts, BA workload balancing and a one-click workspace audit
+- 💾 Fully offline & persistent — all data auto-saves to localStorage every 1.8 seconds with JSON import/export for backup and migration
+- 🎨 Polished UI with dark mode, drag-and-drop Kanban, a command palette (Ctrl+P), global search, saved views and keyboard shortcuts for every major action
+
 ### 📌 Text Search Utility
 🔗 **[Live Demo →](https://zainknoman.github.io/LineFind/)**
 
