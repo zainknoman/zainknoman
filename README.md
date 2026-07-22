@@ -13,7 +13,7 @@ I enjoy building **real-world systems** that combine banking, automation and mod
 ## 🧔‍♂️ About Me
 
 - 🏦 Working with **Temenos T24 (TAFC / TAFJ)** in banking systems
-- 🔐 Working on Implementation & Upgrade **Core Banking projects**
+- 🔐 Working on Implementation & Upgrade of **Core Banking projects**
 - 🤖 Building **AI multi-agent platform (AgentVerse)**
 - 📲 Full-stack development using **AI-tools**
 - 💳 Working on mobile development **EMI Lock System**
@@ -33,17 +33,6 @@ A multi-agent AI platform designed to run structured workflows using multiple AI
 - Plugin-based architecture
 - Context-aware agent communication
 - Scalable AI automation system
-
-### 🏗️ AAC – Al Aziz Construction (Full-Stack CMS Website)
-🔗 https://github.com/zainknoman/AlAzizConstructions
-
-A production-grade construction company website + admin CMS panel built with Vue 3, Supabase (PostgreSQL) and Vanilla JS — all content managed dynamically with zero HTML editing required.
-
-- 🌐 Dynamic public website — hero, services, project portfolio, testimonials and contact section all rendered live from Supabase; leads from the contact form saved directly to the database
-- 🔐 Secure admin CMS panel (Vue 3 + Tailwind CSS) — full CRUD for services, projects and testimonials with publish/unpublish control, lead management, appointment tracking, and CSV/JSON export; credentials isolated in a git-ignored config.js
-- 🗄️ Supabase backend — 8 PostgreSQL tables, 16 Row Level Security policies, and a custom is_admin() security-definer function; public anon users can only read published content and insert leads — no other access
-- 🔑 Double-layer admin auth — Supabase Auth (PKCE flow) + admins allowlist table; a valid Auth session is still rejected unless the email exists in public.admins, making unauthorised access impossible even with leaked credentials
-- 📦 Zero-dependency deployment — two self-contained HTML files + one SQL schema file; runs on any static host (Netlify, GitHub Pages, cPanel) with no backend server, no Node.js, no build step required
 
 ### 🎮 Dangerous Game
 🔗 **[Play it live →](https://plum-edyth-58.tiiny.site/)**
