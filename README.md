@@ -12,7 +12,7 @@ I enjoy building **real-world systems** that combine banking, automation and mod
 
 ## 🧔‍♂️ About Me
 
-- 🏦 Working with **Temenos T24 (TAFC / TAFJ)** in banking systems
+- 🏦 Working with **Temenos T24** in banking systems
 - 🔐 Working on Implementation & Upgrade of **Core Banking projects**
 - 🤖 Building **AI multi-agent platform (AgentVerse)**
 - 📲 Full-stack development using **AI-tools**
