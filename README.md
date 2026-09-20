@@ -1,146 +1,268 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=850&lines=Core+Banking+Developer;Temenos+T24+Specialist;AI+Platform+Builder;Full-Stack+Engineer;Flask+%7C+Vue+%7C+Android+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=900&lines=Core+Banking+Developer;Temenos+T24+Specialist;AI+Platform+Builder;School+Platform+Builder;Full-Stack+Engineer;AgentVerse+%7C+SchoolOS+%7C+Temenos+Skills" />
 </p>
 
-# 👋 Hi, I'm Zain
+# 👋 Hi, I'm Zain Noman Kamali
 
-I am a **Software Developer** working across **Core Banking systems, AI platforms and full-stack application development**.
+**Core Banking Developer / AI Platforms / AgentVerse Builder**
 
-I enjoy building **real-world systems** that combine banking, automation and modern web technologies.
+I build production-oriented software across **Temenos Core Banking, AI agent platforms, education technology, fintech, developer tooling and full-stack applications**.
+
+My recent work combines domain expertise with AI-assisted engineering to turn complex workflows into practical software products.
 
 ---
 
 ## 🧔‍♂️ About Me
 
-- 🏦 Working with **Temenos T24** in banking systems
-- 🔐 Working on Implementation & Upgrade of **Core Banking projects**
-- 🤖 Building **AI multi-agent platform (AgentVerse)**
-- 📲 Full-stack development using **AI-tools**
-- 💳 Working on mobile development **EMI Lock System**
-- 🎮 Exploring game development (Dangerous Game project)
+- 🏦 **Temenos T24 / Transact** developer working on core banking implementation and upgrade projects
+- 🤖 Builder of **AI agent platforms and AI-assisted developer tooling**
+- 🎓 Building **SchoolOS**, a full-stack digital school management platform
+- 🧩 Creating **Temenos Skills**, a knowledge and skills platform for T24/Transact development
+- 💻 Full-stack development across **JavaScript, Python, Java, Vue, Flutter, Android and backend APIs**
+- 🛠️ Interested in automation, developer productivity, system architecture and enterprise software
+- 📚 Exploring how AI agents can support real-world engineering workflows
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎭 AgentVerse (AI Platform)
-🔗 https://github.com/zainknoman/AgentVerse
+## 🎓 SchoolOS — Digital School Management Platform
 
-A multi-agent AI platform designed to run structured workflows using multiple AI agents.
+🔗 **[GitHub →](https://github.com/zainknoman/SchoolOS)**
 
-- Multi-agent pipeline execution
-- Workflow-based AI orchestration
+A full-stack school management platform covering the operational workflows of modern schools.
+
+- 🏫 School, campus and organizational management
+- 👨‍🏫 Staff, teachers and role-based access
+- 👨‍🎓 Students, parents and admissions
+- 📅 Academic sessions, classes, sections and history
+- 📚 Subjects and yearly syllabus planning
+- 📝 Attendance, leave and academic workflows
+- 💰 Fees and financial workflows
+- 📖 Timetable, diary, homework and activities
+- 🔐 Authentication, RBAC and campus-level access control
+- 📱 Web staff console + Flutter parent application
+- 📡 API integrations and notification foundations
+- 🧪 Automated testing and production-readiness documentation
+
+**Architecture:** NestJS • Prisma • PostgreSQL • Vue 3 • Pinia • Flutter • REST APIs
+
+> SchoolOS is currently undergoing a structured production-readiness program with documented architecture, security, operations, testing and release planning.
+
+---
+
+## 🤖 AgentVerse — AI Multi-Agent Platform
+
+🔗 **[GitHub →](https://github.com/zainknoman/AgentVerse)**
+
+A multi-agent AI platform for orchestrating structured workflows using multiple AI agents.
+
+- Multi-agent workflow execution
+- Agent orchestration and communication
 - Plugin-based architecture
-- Context-aware agent communication
-- Scalable AI automation system
+- Context-aware agent workflows
+- AI provider integration
+- Developer-focused automation
+- API and web application architecture
 
-### 🎮 Dangerous Game
+**Stack:** React • Vite • Zustand • Express • SQLite • JavaScript
+
+---
+
+## 🧠 Temenos Skills — T24 / Transact AI Developer Knowledge
+
+🔗 **[GitHub →](https://github.com/zainknoman/Temenos-Skills)**
+
+An engineering knowledge and skills platform focused on **Temenos Transact / T24 development**.
+
+The project contains specialized skills covering:
+
+- temenos-dev
+- temenos-infobasic
+- temenos-l3
+- temenos-jbc
+- temenos-admin
+- temenos-migration
+- temenos-integration
+- temenos-devsecops
+- temenos-architect
+
+The repository is grounded in **R25 development knowledge and production implementation patterns**, including TAFJ Java APIs, InfoBasic, JBC componentisation, integrations, administration, migration and architecture.
+
+It also includes tooling for extracting and aggregating knowledge from Temenos JARs and maintaining structured developer references.
+
+---
+
+## 📋 TaskTracker — Enterprise Work Management
+
+🔗 **[GitHub →](https://github.com/zainknoman/TaskTracker)**
+
+An enterprise-style task and work management platform designed around project, PMO and business-analysis workflows.
+
+- Dashboard and analytics
+- Kanban workflow
+- Calendar
+- Projects, milestones, sprints and tasks
+- Task dependencies
+- Global search
+- Notifications
+- JSON import/export
+- Dark/light themes
+- Offline/local persistence
+- Keyboard shortcuts and command-style interactions
+- Flutter mobile application sharing the web application's design language
+
+**Web:** HTML • CSS • Vanilla JavaScript  
+**Mobile:** Flutter / Dart  
+**Backend:** Supabase / PostgreSQL
+
+---
+
+## 🧩 Project Analyzer
+
+🔗 **[GitHub →](https://github.com/zainknoman/project-analyzer)**
+
+A developer-oriented project analysis utility for inspecting and understanding software projects.
+
+---
+
+## 🎮 Dangerous Game
+
 🔗 **[Play it live →](https://plum-edyth-58.tiiny.site/)**
 
-- HTML + JavaScript based game project
-- Build Your Own Game
-- CONFIGURE → CREATE → PLAY → SHARE
-- Design Level → Export JSON → Send to Friends → Import JSON & Play 
+A browser-based game-building project with a simple create → configure → play → share workflow.
 
-### 📋 Task Tracker
-🔗 **[Live Demo →](https://zainknoman.github.io/TaskTracker/)**
+- Build and configure levels
+- Export levels as JSON
+- Share level definitions
+- Import and play shared levels
 
-- Enterprise-grade Task & Assignment Management application built using pure HTML, CSS, and Vanilla JavaScript
-- Includes Dashboard, Kanban Board, Calendar View, Task Analytics, Global Search, and Dependency Tracking
-- Features Dark/Light Mode, Drag & Drop Workflow, Auto-save localStorage persistence, and JSON/CSV Import-Export
-- Designed for banking, corporate, PMO, agile teams, and business analyst workflow management
-- Zero-dependency architecture with responsive UI, keyboard shortcuts, toast notifications, and modern enterprise UX
+**Stack:** HTML • CSS • JavaScript
 
-### 📋 Task Tracker Pro ⚡
-🔗 **[Live Demo →](https://zainknoman.github.io/TaskTrackerPro/)**
+---
 
-- 🗂️ Enterprise-grade work management system built with pure HTML, CSS & JavaScript — zero dependencies, no build step, runs entirely in the browser
-- 📊 Full project hierarchy with Projects, Milestones, Sprints, and Tasks linked by relational IDs, supporting Kanban, Gantt Timeline, Calendar and Analytics views
-- ⚡ Smart productivity features including real-time notifications, deadline health scoring, sprint burndown charts, BA workload balancing and a one-click workspace audit
-- 💾 Fully offline & persistent — all data auto-saves to localStorage every 1.8 seconds with JSON import/export for backup and migration
-- 🎨 Polished UI with dark mode, drag-and-drop Kanban, a command palette (Ctrl+P), global search, saved views and keyboard shortcuts for every major action
+## 🔍 LineFind — Text Search Utility
 
-### 📌 Text Search Utility
 🔗 **[Live Demo →](https://zainknoman.github.io/LineFind/)**
 
-* 🔍 Client-side file search tool to quickly search across multiple uploaded text/code files in the browser
-* 📁 Supports multiple file formats with instant upload and in-memory processing (no backend required)
-* ✨ Displays line-by-line matches with highlighted keywords for fast debugging and analysis
-* 👀 Includes full file viewer modal with line numbers, search highlighting, and download option
-* ⚡ Lightweight, privacy-first utility running fully offline using pure HTML, CSS, and Vanilla JavaScript
+A lightweight, privacy-first browser utility for searching across uploaded text and code files.
 
+- Multi-file search
+- Line-by-line matching
+- Keyword highlighting
+- File viewer with line numbers
+- Download support
+- No backend required
 
-# ❌ ReCodeX
+**Stack:** HTML • CSS • Vanilla JavaScript
+
+---
+
+## 📦 ReCodeX
+
 🔗 **[Live Demo →](https://zainknoman.github.io/RecodeX/)**
 
-* 📁 Combine multiple code/text files into a single structured file with clear start/end markers
-* 🔄 Reverse-engineer compiled files back into original file structure with accurate parsing
-* 📦 Export combined or original files as downloadable ZIP using JSZip (client-side only)
-* 🔍 Built-in search, highlight, copy-to-clipboard, and modal preview for compiled output
-* ⚡ Fully frontend-based (HTML + Tailwind + Vanilla JS), no server or database required
+A browser-based utility for combining and reconstructing code/text files.
 
-### 📱 EMI Lock System
-A fintech-based enforcement system for managing EMI lifecycle and device control.
-
-- JWT-based authentication system
-- Firebase Cloud Messaging (FCM) integration
-- Vue 3 admin dashboard
-- Android device enforcement app
-- EMI tracking & control logic
-
-### 🌐 T24 Tools & Development
-- Temenos T24 customization and debugging
-- API integration and service development
-- Banking workflow enhancements
-
----
-## 💻 Tech Stack
-
-I work across **Core Banking systems, backend engineering and AI-driven platforms**.
+- Combine multiple files into a structured document
+- Reconstruct original file structure
+- ZIP export
+- Search and highlighting
+- Copy-to-clipboard
+- Fully client-side architecture
 
 ---
 
-### 🏦 Core Banking & Fintech
-![Temenos T24](https://img.shields.io/badge/Temenos-T24-blue?style=for-the-badge)
-![TAFC](https://img.shields.io/badge/TAFC-R14--R25-darkgreen?style=for-the-badge)
-![TAFJ](https://img.shields.io/badge/TAFJ-Java-orange?style=for-the-badge)
-![UXP Edge](https://img.shields.io/badge/UXP-Edge%20Connect-purple?style=for-the-badge)
-![Payments](https://img.shields.io/badge/Temenos-Payments-darkblue?style=for-the-badge)
+## 📱 EMI Lock System
 
-### 💻 Backend & Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Infobasic](https://img.shields.io/badge/InfoBasic-T24-green?style=for-the-badge)
+A fintech-oriented device enforcement platform for managing EMI lifecycle and device control.
 
-### 🌐 Frameworks & APIs
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
+- JWT authentication
+- Firebase Cloud Messaging
+- Vue 3 administration dashboard
+- Android device application
+- EMI lifecycle and enforcement workflows
+
+---
+
+# 🏦 Temenos / Core Banking
+
+My professional engineering work focuses on **Temenos Transact / T24** and banking technology.
+
+### Core Banking
+
+- Temenos Transact / T24
+- T24 R14 / R19 / R20 / R23 / R24 / R25
+- TAFC / TAFJ
+- Java Extensibility
+- InfoBasic
+- JBC componentisation
+- AA Retail / Lending
+- Accounts & Customer
+- Payments
+- Trade
+- Teller
+- SMS
+- Digital Banking
+
+### Integration & Payments
+
+- REST / SOAP APIs
+- IRIS APIs
+- TPH
+- SWIFT
+- RTGS
+- ACH
+- Payment integrations
+- Event-driven integrations
+- API automation
+
+---
+
+# 💻 Technology Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend & Mobile
+
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST](https://img.shields.io/badge/API-REST-0A66C2?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/API-SOAP-lightgrey?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🗄 Databases
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧪 Tools & DevOps
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### ⚙️ Version Control & Collaboration
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainknoman&show_icons=true&theme=tokyonight" />
@@ -156,22 +278,12 @@ I work across **Core Banking systems, backend engineering and AI-driven platform
 
 ---
 
-## 🤝 Let’s Connect
+# 🤝 Let's Connect
 
-### 🌐 Professional & Social
-📧 Hotmail / Google | 💬 Skype | 💼 LinkedIn | 🐙 GitHub  
-👉 zainknoman
-✉️ zainknoman@hotmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/zainknoman](https://www.linkedin.com/in/zainknoman/)
+- 🐙 **GitHub:** [github.com/zainknoman](https://github.com/zainknoman)
+- 📧 **Email:** zainknoman@hotmail.com
 
-💬 Contact for quick discussion via LinkedIn DM
-- 💼 LinkedIn: https://www.linkedin.com/in/zainknoman/  
-- 🐙 GitHub: https://github.com/zainknoman  
-<!--
-### 📱 Direct Contact
-📞 Phone | 💬 WhatsApp | 🤖 Botim  
-👉 0092 323 259 5009
----
--->
 <p align="center">
-  <b>Core Banking • AI Systems • Full-Stack Development</b>
+  <b>Core Banking • AI Platforms • School Technology • Full-Stack Engineering</b>
 </p>
