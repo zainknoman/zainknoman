@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=900&lines=Core+Banking+Developer;Temenos+T24+Specialist;AI+Platform+Builder;School+Platform+Builder;Full-Stack+Engineer;AgentVerse+%7C+SchoolOS+%7C+Temenos+Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=0A66C2&center=true&vCenter=true&width=900&lines=Core+Banking+Developer;Temenos+T24+Specialist;AI+Platform+Builder;School+Platform+Builder;Full-Stack+Engineer;AgentVerse+%7C+SchoolOS+%7C+RepoMind+%7C+Temenos+Skills" />
 </p>
 
 # 👋 Hi, I'm Zain Noman Kamali
@@ -93,6 +93,25 @@ It also includes tooling for extracting and aggregating knowledge from Temenos J
 
 ---
 
+## 🧠 RepoMind — Codebase Intelligence Workspace
+
+🔗 **[GitHub →](https://github.com/zainknoman/RepoMind)** · **[Live App →](https://zainknoman.github.io/RepoMind/)**
+
+A local-first developer workspace for understanding, searching, editing, transforming and comparing software codebases directly in the browser.
+
+- 📁 Open and explore local project folders
+- 🔎 Search code with file and line-level results
+- ✏️ Edit files directly with browser-based saving
+- 🧰 Developer utilities for JSON, Base64, Regex, JWT, UUID and timestamps
+- 🔄 Combine and reverse-split code/text files
+- 📊 Project intelligence and file analysis
+- 📝 Compare files and inspect project content
+- 🔒 Local-first workflow with no required repository upload
+
+**Stack:** React • Vite • JavaScript • Browser File System Access API
+
+---
+
 ## 📋 TaskTracker — Enterprise Work Management
 
 🔗 **[GitHub →](https://github.com/zainknoman/TaskTracker)**
@@ -138,38 +157,6 @@ A browser-based game-building project with a simple create → configure → pla
 - Import and play shared levels
 
 **Stack:** HTML • CSS • JavaScript
-
----
-
-## 🔍 LineFind — Text Search Utility
-
-🔗 **[Live Demo →](https://zainknoman.github.io/LineFind/)**
-
-A lightweight, privacy-first browser utility for searching across uploaded text and code files.
-
-- Multi-file search
-- Line-by-line matching
-- Keyword highlighting
-- File viewer with line numbers
-- Download support
-- No backend required
-
-**Stack:** HTML • CSS • Vanilla JavaScript
-
----
-
-## 📦 ReCodeX
-
-🔗 **[Live Demo →](https://zainknoman.github.io/RecodeX/)**
-
-A browser-based utility for combining and reconstructing code/text files.
-
-- Combine multiple files into a structured document
-- Reconstruct original file structure
-- ZIP export
-- Search and highlighting
-- Copy-to-clipboard
-- Fully client-side architecture
 
 ---
 
@@ -285,5 +272,5 @@ My professional engineering work focuses on **Temenos Transact / T24** and banki
 - 📧 **Email:** zainknoman@hotmail.com
 
 <p align="center">
-  <b>Core Banking • AI Platforms • School Technology • Full-Stack Engineering</b>
+  <b>Core Banking • AI Platforms • School Technology • Developer Tooling • Full-Stack Engineering</b>
 </p>
